@@ -1,0 +1,8 @@
+frmMain = 58, 122, 724, 570, , 44, 44, 567, 492, C
+modDecoder = 58, 70, 692, 435, 
+modSubs = 64, 10, 732, 471, 
+frmPlay = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modAnalyzer = 88, 88, 604, 536, 
+frmEqualizer = 154, 154, 670, 602, , 132, 132, 648, 580, C
+modEqualizer = 0, 0, 0, 0, C
+mMP3Tags = 0, 0, 0, 0, C
